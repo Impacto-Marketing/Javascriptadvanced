@@ -1,2 +1,2 @@
 let curso = "Javascriptmaster"
-console.log(cuso);
+console.log(curso);
